@@ -8,5 +8,15 @@
     "mongoose": "^8.10.0",
     "node-cron": "^3.0.3",
     "nodemailer": "^6.10.0"
-  }
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
